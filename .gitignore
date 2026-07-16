@@ -1,0 +1,16 @@
+# No voy a subir los entornos virtuales
+venv/
+
+#Datos procesados
+data/processed
+
+#Modelos entrenados
+*.pkl
+
+#Archivos Temporales
+.ipynb_checkpoints
+__pycache__
+
+
+
+
