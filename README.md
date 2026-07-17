@@ -100,4 +100,4 @@ Enlaces útiles:
 - Documentación oficial de Git: https://git-scm.com/doc
 GitHub Docs: https://docs.github.com/es
 - Documentación de Scikit-learn: https://scikit-learn.org/stable/
-- Guía básica de Markdown: https://www.markdownguide.org/basic-syntax/
+- [Guía básica de Markdown:] https://www.markdownguide.org/basic-syntax/
